@@ -6,7 +6,9 @@ import Juice from './Juice/Juice';
 const Bar = () => {
     const [juices, setJuices] = useState([]);
     const [cart,setCart] = useState([]);
+    const[name,setName] = useState([]);
 
+   
     useEffect(() => {
         fetch('data.json')
             .then(res => res.json())
@@ -33,7 +35,7 @@ const Bar = () => {
                 }
             </div>
             <div className='selected-items'>
-                <Cart cart={cart}></Cart>
+                <Cart cart={cart} ></Cart>
             </div>
         </div>
         </div>
