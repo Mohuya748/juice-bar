@@ -1,0 +1,74 @@
+[
+    {
+        "img": "https://img.freepik.com/free-photo/fresh-orange-juice-drink-bottle-glass_74190-6163.jpg?size=626&ext=jpg&uid=R67498601&ga=GA1.1.77004565.1641239679",
+        "name": "Orange Juice",
+        "price": "190++ BDT",
+        "id": 211
+    },
+    {
+        "img": "https://img.freepik.com/free-photo/front-view-sliced-mango-blackboard-with-glass-orange-juice-mint-leaves_141793-9522.jpg?t=st=1648232747~exp=1648233347~hmac=32aec864eabbaae3319445ec3ad05486cba8876866efe2ba43aa115f2f4a2c04&w=740",
+        "name": "Mango Juice",
+        "price": "180++ BDT",
+        "id": 212
+    },
+    {
+        "img": "https://img.freepik.com/free-photo/fresh-lime-drinks-macro-shot_53876-32279.jpg?size=626&ext=jpg&uid=R67498601&ga=GA1.2.77004565.1641239679",
+        "name": "Mint Lemonade",
+        "price": "170++ BDT",
+        "id": 213
+    },
+    {
+        "img": "https://img.freepik.com/free-photo/front-view-pineapple-juice-with-pineapple-slices-cutting-board-pineapple-green-surface-white-surface_141793-13920.jpg?size=626&ext=jpg&uid=R67498601&ga=GA1.2.77004565.1641239679",
+        "name": "Pineapple juice",
+        "price": "190++ BDT",
+        "id": 214
+    },
+    {
+        "img": "https://img.freepik.com/free-photo/watermelon-smoothie_144627-38756.jpg?size=626&ext=jpg&uid=R67498601&ga=GA1.1.77004565.1641239679",
+        "name": "Watermelon juice",
+        "price": "200++ BDT",
+        "id": 215
+    },
+    {
+        "img": "https://img.freepik.com/free-photo/front-view-glass-lemonade_23-2148371264.jpg?size=338&ext=jpg&uid=R67498601&ga=GA1.2.77004565.1641239679",
+        "name": "Lemonade",
+        "price": "150++ BDT",
+        "id": 216
+    },
+    {
+        "img": "https://img.freepik.com/free-photo/front-view-red-juice-with-grapes-white-surface-fruit-drink-cocktail-juice_140725-53312.jpg?size=626&ext=jpg&uid=R67498601&ga=GA1.2.77004565.1641239679",
+        "name": "Grape Juice",
+        "price": "220++ BDT",
+        "id": 217
+    },
+    {
+        "img": "https://img.freepik.com/free-photo/glass-papaya-juice-put-white-marble-floor_1150-28077.jpg?size=626&ext=jpg&uid=R67498601&ga=GA1.2.77004565.1641239679",
+        "name": "Papaya Juice",
+        "price": "210++ BDT",
+        "id": 218
+    },
+    {
+        "img": "https://img.freepik.com/free-photo/iced-pink-cocktail-fresh-strawberries_144627-1130.jpg?size=626&ext=jpg&uid=R67498601&ga=GA1.2.77004565.1641239679",
+        "name": "Strawberry Juice",
+        "price": "310++ BDT",
+        "id": 219
+    },
+    {
+        "img": "https://img.freepik.com/free-photo/healthy-kiwi-smoothie-summer-recipe_53876-32273.jpg?size=626&ext=jpg&uid=R67498601&ga=GA1.2.77004565.1641239679",
+        "name": "Kiwi Juice",
+        "price": "300++ BDT",
+        "id": 220
+    },
+    {
+        "img": "https://img.freepik.com/free-photo/glass-aloe-vera-juice-put-dark-floor_1150-28052.jpg?size=626&ext=jpg&uid=R67498601&ga=GA1.2.77004565.1641239679",
+        "name": "Aloe Juice",
+        "price": "250++ BDT",
+        "id": 221
+    },
+    {
+        "img": "https://img.freepik.com/free-photo/smoothie-with-avocado-banana_144627-33272.jpg?size=626&ext=jpg&uid=R67498601&ga=GA1.2.77004565.1641239679",
+        "name": "Avocado Juice",
+        "price": "350++ BDT",
+        "id": 222
+    }
+]
