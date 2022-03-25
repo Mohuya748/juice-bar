@@ -1,0 +1,43 @@
+.juices{
+    border: 1px solid #95A0A7;
+    border-radius: 8px;
+    width: 300px;
+    height: 510px;
+    position: relative;
+
+
+}
+
+.juices img{
+    width: 286px;
+    height: 286px;
+    border-radius: 7px;
+    margin: 7px;
+
+}
+.juice-name{
+    font-family: 'Lato';
+    font-style: normal;
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 25px;
+}
+.juice-info p{
+    margin-top: 5px;
+    margin-bottom: 0;
+    padding: 10px;
+}
+.btn-cart{
+    width: 100%;
+    background-color: lightsalmon;
+    border: none;
+    border-radius: 0 0 5px 5px;
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn-cart:hover{
+    background-color: rgba(233, 99, 10, 0.808);
+}
