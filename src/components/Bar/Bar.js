@@ -27,8 +27,8 @@ const Bar = () => {
     return (
         <div>
             <div className='header'>
-                <h1>Juice Bar</h1>
-                <h3>Order Your Favourite Juice in This Hot Summer!!</h3>
+                <h1 className='title'>Juice Bar</h1>
+                <h3 className='small-title'>Order Your Favourite Juice in This Hot Summer!!</h3>
             </div>
             <div className='shop-container'>
                 <div className='juice-container'>
