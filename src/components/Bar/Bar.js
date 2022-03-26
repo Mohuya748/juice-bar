@@ -6,7 +6,7 @@ import Juice from './Juice/Juice';
 const Bar = () => {
     const [juices, setJuices] = useState([]);
     const [cart, setCart] = useState([]);
-    
+
     useEffect(() => {
         fetch('data.json')
             .then(res => res.json())
@@ -18,9 +18,12 @@ const Bar = () => {
         const newCart = [...cart, juice];
         setCart(newCart);
     }
+    // const chooseBtn = (juice) => {
+    //     // const randomNumber = cart[Math.floor(Math.random() * cart.length)];
+    //     // setCart([randomNumber]);
+        
+    //     }
     
-
-    // cart.map(cart=>setCart(cart.name);
     return (
         <div>
             <div className='header'>
@@ -36,10 +39,13 @@ const Bar = () => {
 
                 </div>
                 <div className='selected-items'>
-               
-            <Cart cart={cart} key={cart.id}></Cart>
+
+                    <Cart cart={cart} key={cart.id} ></Cart>
+
 
                 </div>
+
+
             </div>
         </div>
     );

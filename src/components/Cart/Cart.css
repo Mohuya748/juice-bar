@@ -4,3 +4,15 @@
     
 
 }
+.cart-btn-display{
+    display: block;
+}
+.cart-btn{
+    background-color: green;
+    color:white;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    margin: 5px;
+    padding: 15px;
+
+}
