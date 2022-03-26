@@ -1,23 +1,20 @@
 import React from 'react';
 import './Cart.css';
 
-const Cart = (props) => {
-    const {cart} = props;
+const Cart = ({cart}) => {
+    
     
 
-    let juiceName = '';
-    for(const juice of cart){
-        juiceName = juice.name;
-    }
-    
 
     return (
         <div className='cart'>
             <h4>Selected Juices</h4>
-            <p>{juiceName}</p>
-              
+            {cart.map((cart)=><p>{cart.name}</p>) }
+
         </div>
-    );
-};
+    )
+};   
+    
+
 
 export default Cart;

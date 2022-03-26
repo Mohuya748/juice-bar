@@ -15,7 +15,7 @@ const Juice = (props) => {
                     
                 </div>
 
-                <button onClick={() => props.addToHandle(props.juice)} className='btn-cart'><p>Add to cart  </p>
+                <button onClick={(cart) => props.addToHandle(props.juice)} className='btn-cart'><p>Add to cart  </p>
                     <FontAwesomeIcon icon={faShoppingCart}></FontAwesomeIcon>
                 </button>
 
